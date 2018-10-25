@@ -1,2 +1,2 @@
-# patterns
+# Patterns
 Illustrations of patterns 
